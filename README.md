@@ -58,5 +58,7 @@ dsa4060-week1-recommender/
 
 
 Screenshot
+
+
 <img width="587" height="271" alt="image" src="https://github.com/user-attachments/assets/16e3e8af-3f79-426e-ab33-72743953b02d" />
 
